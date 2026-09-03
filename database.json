@@ -1,0 +1,8 @@
+{
+  "users": {
+    "admin@joyai.com": {
+      "password": "password123",
+      "credits": 5000
+    }
+  }
+}
